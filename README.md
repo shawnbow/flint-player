@@ -1,5 +1,5 @@
 flint-player
-============
+=============
 
 Flint Player is the default media player for OpenFlint, developers can use it directly in their own video streaming sender app.
 
